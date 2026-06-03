@@ -1,6 +1,6 @@
 # Samsung Decrypter 🛡️
 <p align="center">
-  <img src="Samdc.png" width="400">
+  <img src="samdc.png" width="400">
 </p>
 A modern, native Android tool for fetching and decrypting official Samsung firmware packages. Built with Jetpack Compose and designed with a clean, OneUI-inspired aesthetic.
 
