@@ -12,7 +12,7 @@ A modern, native Android tool for fetching and decrypting official Samsung firmw
 - **Native Experience:** Dark/Light mode support with a native UI feel.
 
 ## Getting Started
-1. **Download:** Grab the latest `.apk` from the [Releases](https://github.com/fahadalijaved/SamDecrypter/releases) section.
+1. **Download:** Grab the latest `.apk` from the [Releases](https://github.com/fahadalijaved/SamsungDecrypter/releases) section.
 2. **Install:** Sideload the APK on your Android device (ensure "Install from unknown sources" is enabled).
 3. **Usage:** Enter your device's model code (e.g., `SM-S931U1`) and CSC region (e.g., `EUX`), then tap **Run Decryption**.
 
