@@ -2,7 +2,7 @@
 <p align="center">
   <img src="samdc.png" width="400">
 </p>
-A modern, native Android tool for fetching and decrypting official Samsung firmware packages. Built with Jetpack Compose and designed with a clean, OneUI-inspired aesthetic.
+A modern, native Android tool for fetching and decrypting official Samsung firmware triplets. Built with Jetpack Compose and designed with a clean, OneUI-inspired aesthetic.
 
 ## Features
 - **Streamlined Workflow:** Simple input for Model Code and CSC.
