@@ -21,7 +21,8 @@ A modern, native Android tool for fetching and decrypting official Samsung firmw
 - **Material3:** Following modern Android design guidelines.
 
 ## Credits
-- **Killshot**
+- **Duct**
+- **Ex7nos**
 - **Wr3ckl3ss**
 - **Vikram**
 
